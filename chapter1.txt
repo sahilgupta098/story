@@ -1,2 +1,4 @@
-this is a file dedicated for git version control system.
+this is a main file dedicated for git version control system.
 love love love
+
+First File on Main
