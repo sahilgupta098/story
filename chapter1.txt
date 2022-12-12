@@ -1,2 +1,3 @@
-this is a file dedicated for git version control system.
+this is a git love file dedicated for git version control system.
 love love love
+on my love
