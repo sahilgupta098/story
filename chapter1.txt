@@ -1,4 +1,10 @@
-this is a main file dedicated for git version control system.
+<<<<<<< HEAD
+this is a file dedicated for git version control system.
 love love love
 
 First File on Main
+=======
+this is a git dedicated for git version control system.
+love love love
+on my love
+>>>>>>> love-triangle-plot

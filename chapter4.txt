@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a plot where we get oscor.
+=======
+This is a plot where we get oscor.
+>>>>>>> love-triangle-plot
